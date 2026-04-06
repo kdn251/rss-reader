@@ -1,0 +1,17 @@
+# RSS Feeds for Testing
+# Copy and paste these URLs into your RSS reader
+
+# Tech News
+https://news.ycombinator.com/rss
+https://feeds.arstechnica.com/arstechnica/index
+https://www.theverge.com/rss/index.xml
+https://techcrunch.com/feed/
+
+# Software Engineering
+https://blog.pragmaticengineer.com/rss/
+https://martinfowler.com/feed.atom
+https://feeds.feedburner.com/TheDailyWtf
+
+# Science
+https://rss.nytimes.com/services/xml/rss/nyt/Science.xml
+https://www.nasa.gov/rss/dyn/breaking_news.rss
