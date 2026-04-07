@@ -8,7 +8,7 @@ Build an RSS feed reader with Claude Code, then learn how to guide Claude's outp
 - A terminal and web browser
 - Claude Code installed:
   ```bash
-  npm install -g @anthropic-ai/claude-code
+  curl -fsSL https://claude.ai/install.sh | sh
   ```
 
 ## Getting Started
