@@ -4,9 +4,12 @@ Build an RSS feed reader with Claude Code, then learn how to guide Claude's outp
 
 ## Prerequisites
 
-- [Claude Code](https://claude.ai/code) installed and authenticated
 - Node.js installed
 - A terminal and web browser
+- Claude Code installed:
+  ```bash
+  npm install -g @anthropic-ai/claude-code
+  ```
 
 ## Getting Started
 
